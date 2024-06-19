@@ -4,15 +4,15 @@ I am a graduate of computer science and a programming enthusiast, possessing ski
 ### Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<img align="left" alt="sass" src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
-<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"  />
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"  />
-<img align="left" alt="next" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"  />
-<img align="left" alt="react-redux" src="https://img.shields.io/badge/react--redux%20-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white"  />
-<img align="left" alt="rest-api" src="https://img.shields.io/badge/rest--api%20-%23000000.svg?&style=for-the-badge&logo=rest-api&logoColor=white" />
-<img align="left" alt="git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"  />
-<img align="left" alt="jira" src="https://img.shields.io/badge/jira%20-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 <img align="left" alt="sql" src="https://img.shields.io/badge/sql%20-%234169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 <br><br>
 
 ### Connect with me
