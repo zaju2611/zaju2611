@@ -2,7 +2,7 @@
 I am a graduate of computer science and a programming enthusiast, possessing skills in creating modern web applications. My main passion lies in user interface development (frontend). I am constantly seeking new ways to enhance my skills in this area. I understand the importance of self-improvement and keeping up with modern solutions in this rapidly evolving field. I am looking for opportunities to work in the IT industry that would allow me to expand my knowledge and broaden my skill set.
 
 ### Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<img align="left" alt="html" src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"  />
 <img align="left" alt="css" src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"  />
 <img align="left" alt="sass" src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"  />
